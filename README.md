@@ -1,4 +1,6 @@
-## Bonjour 👋 i'm Ludovic, a high school student from France !
+## Bonjour 👋
+
+### I am Ludovic, a high school student from France! 🇫🇷
 
 <!--
 **ud0s/ud0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
